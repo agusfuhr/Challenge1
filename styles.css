@@ -1,0 +1,47 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    
+}
+
+.texto{
+    text-align: center;
+}
+
+
+.imagen {
+    margin: auto;
+    display: block;
+        
+   
+}
+.cuadro-P {
+    text-align: center;
+    
+}
+
+
+
+
+.cuadro-H {
+    height: 432px;
+    width: 399px;
+    margin:  auto;
+    border: 1px solid grey;
+    border-radius: 15px;
+        
+    }
+
+.boton{
+    background-color: rgb(146, 16, 16);
+    color: cornsilk;
+    margin: auto;
+    display: block;
+}
+
+.boton2{
+    background-color: rgb(7, 27, 145);
+    color: cornsilk;
+    margin: auto;
+    display: block;
+}

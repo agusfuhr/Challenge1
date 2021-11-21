@@ -6,7 +6,7 @@
 
 .texto{
     text-align: center;
-}
+    }
 
 
 .imagen {
@@ -16,20 +16,24 @@
    
 }
 .cuadro-P {
-    text-align: center;
-    
+    padding: 30px;
+    height: 432px;
+    width: 399px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 
 
 
 .cuadro-H {
-    height: 432px;
-    width: 399px;
-    margin:  auto;
+    
+    padding: 30px;
     border: 1px solid grey;
     border-radius: 15px;
-        
+     
     }
 
 .boton{
